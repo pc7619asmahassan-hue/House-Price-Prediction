@@ -1,0 +1,1 @@
+Machine learning project for predicting house prices using Python and Google Colab. Includes data cleaning, preprocessing, EDA, visualization, and regression models like Linear Regression, Decision Tree, and Random Forest.
